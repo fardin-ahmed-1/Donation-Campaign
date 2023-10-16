@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "category_name": "Health",
+        "title": "Healthy Eating Habits",
+        "description": "Learn about the importance of a balanced diet and how it can positively impact your overall health. Explore the fundamentals of nutrition, meal planning, and making mindful food choices. The Health category is your gateway to a healthier lifestyle. Explore a wide range of courses and resources designed to improve your physical and mental well-being. From nutrition and fitness to mental health and wellness strategies, our Health courses are your trusted companions on the journey to a healthier you.",
+        "price": 190,
+        "category_bg": "#AEC8FF",
+        "title_color": "#0052FF",
+        "container_color": "#D9E5FF",
+        "image": "https://i.ibb.co/9gsdLd5/Health1.jpg"
+    },
+
+    {
+        "id": 2,
+        "category_name": "Education",
+        "title": "Mathematics Fundamentals",
+        "description": "Master the basics of mathematics with ease. This comprehensive course covers essential mathematical concepts, including algebra, geometry, and calculus, to build a strong foundation in math. Education is the key to personal growth and development. In the Education category, you'll find courses that empower you with knowledge and skills to thrive in various aspects of life. Whether you're interested in mathematics, programming, art appreciation, or exploring new fields, our educational offerings will open doors to new opportunities.",
+        "price":200,
+        "category_bg": "#FFC3C5",
+        "title_color": "#FF444A",
+        "container_color": "#FFE3E4",
+        "image": "https://i.ibb.co/jhxyrg8/Education1.jpg"
+    },
+
+     {
+        "id": 3,
+        "category_name": "Clothing",
+        "title": "Fashion Trends 2023",
+        "description": "Stay in style with the latest fashion trends. Explore the fashion industry's upcoming trends, from clothing and accessories to makeup and hairstyling, and elevate your fashion game. Fashion enthusiasts, look no further than the Clothing category. Dive into the world of style and trends with courses that cover everything from seasonal fashion updates to wardrobe essentials. Discover how to create stunning outfits, express your unique style, and stay fashionable all year round.",
+        "price": 150,
+        "category_bg": "#D4ECC1",
+        "title_color": "#79C23F",
+        "container_color": "#EBF6E2",
+        "image": "https://i.ibb.co/XXDF0fX/Clothing1.jpg"
+    },
+
+    {
+        "id": 4,
+        "category_name": "Food",
+        "title": "Cooking Basics",
+        "description": "Learn the essentials of cooking from scratch. Master the art of preparing delicious meals, understanding ingredients, and using various cooking techniques to impress your family and friends. Satisfy your culinary curiosity in the Food category. Here, you'll find a delectable array of courses that cater to your passion for cooking and culinary arts. Explore recipes for healthy living, learn cooking basics from scratch, and elevate your culinary skills to impress friends and family with mouthwatering dishes.",
+        "price": 150,
+        "category_bg": "#00B4FF20",
+        "title_color": "#00B4FF",
+        "container_color": "#00B4FF15",
+        "image": "https://i.ibb.co/FB5z1BD/Food1.jpg"
+    },
+
+    {
+        "id": 5,
+        "category_name": "Food",
+        "title": "Healthy Recipes",
+        "description": "Delicious recipes for a nutritious diet. Explore a collection of healthy and easy-to-follow recipes that promote well-being and support your fitness and dietary goals. Satisfy your culinary curiosity in the Food category. Here, you'll find a delectable array of courses that cater to your passion for cooking and culinary arts. Explore recipes for healthy living, learn cooking basics from scratch, and elevate your culinary skills to impress friends and family with mouthwatering dishes.",
+        "price": 300,
+        "category_bg": "#00B4FF20",
+        "title_color": "#00B4FF",
+        "container_color": "#00B4FF15",
+        "image": "https://i.ibb.co/P5jxRDV/Food2.jpg"
+    },
+
+    {
+        "id": 6,
+        "category_name": "Clothing",
+        "title": "Summer Wardrobe Essentials",
+        "description": "Upgrade your summer fashion game with this guide to essential wardrobe items. Discover must-have clothing pieces, footwear, and accessories for a stylish and comfortable summer season. Fashion enthusiasts, look no further than the Clothing category. Dive into the world of style and trends with courses that cover everything from seasonal fashion updates to wardrobe essentials. Discover how to create stunning outfits, express your unique style, and stay fashionable all year round.",
+        "price": 240,
+        "category_bg": "#D4ECC1",
+        "title_color": "#79C23F",
+        "container_color": "#EBF6E2",
+        "image": "https://i.ibb.co/9yN8WKq/Clothing2.jpg"
+    },
+
+    {
+        "id": 7,
+        "category_name": "Education",
+        "title": "Programming 101",
+        "description": "Kickstart your coding journey with this introductory course. Learn the fundamentals of programming languages like Python and Java, and begin writing your first code. Education is the key to personal growth and development. In the Education category, you'll find courses that empower you with knowledge and skills to thrive in various aspects of life. Whether you're interested in mathematics, programming, art appreciation, or exploring new fields, our educational offerings will open doors to new opportunities.",
+        "price": 100,
+        "category_bg": "#FFC3C5",
+        "title_color": "#FF444A",
+        "container_color": "#FFE3E4",
+        "image": "https://i.ibb.co/wWg9RcQ/Education2.jpg"
+    },
+
+    {
+        "id": 8,
+        "category_name": "Health",
+        "title": "Yoga for Beginners",
+        "description": "Start your journey to physical and mental wellness with this beginner-friendly yoga course. Discover the basic yoga poses, breathing techniques, and relaxation exercises to enhance your well-being. The Health category is your gateway to a healthier lifestyle. Explore a wide range of courses and resources designed to improve your physical and mental well-being. From nutrition and fitness to mental health and wellness strategies, our Health courses are your trusted companions on the journey to a healthier you.",
+        "price": 500,
+        "category_bg": "#AEC8FF",
+        "title_color": "#0052FF",
+        "container_color": "#D9E5FF",
+        "image": "https://i.ibb.co/JkWzDgq/Health2.jpg"
+    },
+
+    {
+        "id": 9,
+        "category_name": "Health",
+        "title": "Mental Wellness",
+        "description": "Tips and techniques for maintaining mental health. Discover effective strategies to manage stress, improve emotional well-being, and enhance your overall mental wellness. The Health category is your gateway to a healthier lifestyle. Explore a wide range of courses and resources designed to improve your physical and mental well-being. From nutrition and fitness to mental health and wellness strategies, our Health courses are your trusted companions on the journey to a healthier you.",
+        "price": 280,
+        "category_bg": "#AEC8FF",
+        "title_color": "#0052FF",
+        "container_color": "#D9E5FF",
+        "image": "https://i.ibb.co/6st30TT/Health3.jpg"
+    },
+    {
+        "id": 10,
+        "category_name": "Education",
+        "title": "Art Appreciation",
+        "description": "Explore the world of art and creativity. Dive into the fascinating realm of art history, famous artists, and various art forms to develop a deeper appreciation for artistic expression. Education is the key to personal growth and development. In the Education category, you'll find courses that empower you with knowledge and skills to thrive in various aspects of life. Whether you're interested in mathematics, programming, art appreciation, or exploring new fields, our educational offerings will open doors to new opportunities.",
+        "price": 147,
+        "category_bg": "#FFC3C5",
+        "title_color": "#FF444A",
+        "container_color": "#FFE3E4",
+        "image": "https://i.ibb.co/JHYxCFZ/Education3.jpg"
+    },
+    {
+        "id": 11,
+        "category_name": "Clothing",
+        "title": "Winter Fashion Guide",
+        "description": "Stay cozy and stylish during the winter season. Learn how to layer clothing effectively, choose the right winter accessories, and create fashionable cold-weather outfits. Stay cozy and stylish during the winter season. Learn how to layer clothing effectively, choose the right winter accessories, and create fashionable cold-weather outfits. Fashion enthusiasts, look no further than the Clothing category. Dive into the world of style and trends with courses that cover everything from seasonal fashion updates to wardrobe essentials. Discover how to create stunning outfits, express your unique style, and stay fashionable all year round.",
+        "price": 400,
+        "category_bg": "#D4ECC1",
+        "title_color": "#79C23F",
+        "container_color": "#EBF6E2",
+        "image": "https://i.ibb.co/4dHn3GX/Clothing3.jpg"
+        
+    },
+    {
+        "id": 12,
+        "category_name": "Food",
+        "title": "Plant-Based Diet",
+        "description": "Embrace a healthier lifestyle with plant-based recipes. Explore a variety of plant-based dishes and meal plans designed to boost your health and reduce your environmental footprint. Satisfy your culinary curiosity in the Food category. Here, you'll find a delectable array of courses that cater to your passion for cooking and culinary arts. Explore recipes for healthy living, learn cooking basics from scratch, and elevate your culinary skills to impress friends and family with mouthwatering dishes.",
+        "price": 250,
+        "category_bg": "#00B4FF20",
+        "title_color": "#00B4FF",
+        "container_color": "#00B4FF15",
+        "image": "https://i.ibb.co/Z8b07gj/Food3.jpg"
+    }
+]
