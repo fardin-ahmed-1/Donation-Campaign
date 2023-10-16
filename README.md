@@ -2,7 +2,7 @@
 
 ## [Website Live Link](https://periodic-instrument.surge.sh/) 
 
-## features of the project:
+### features of the project:
 
 - In the top banner section, we've included a convenient search feature that allows you to effortlessly explore and discover topics that pique your interest. With this search option, finding exactly what you're looking for has been easier. Simply type in your keywords,
 
